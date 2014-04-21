@@ -1,0 +1,3 @@
+*.png lib/plymouth/themes/minos-semicircle/
+*.plymouth lib/plymouth/themes/minos-semicircle/
+*.script lib/plymouth/themes/minos-semicircle/
