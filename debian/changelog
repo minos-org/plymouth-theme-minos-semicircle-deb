@@ -3,10 +3,10 @@ plymouth-theme-minos-semicircle (1:201608161113+gitc02e96-minos) precise; urgenc
   * add trusty/xenial packages into lp recipe:
     https://code.launchpad.net/~minos-archive/+recipe/plymouth-theme-minos-semicircle
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Tue, 16 Aug 2016 11:13:31 -0500
+ -- Javier López <m@javier.io>  Tue, 16 Aug 2016 11:13:31 -0500
 
 plymouth-theme-minos-semicircle (1:201406192119+git4c02e96-minos) precise; urgency=low
 
   * New version
 
- -- Javier P.L. <chilicuil@ubuntu.com>  Sun, 20 Apr 2014 21:48:29 -0500
+ -- Javier López <m@javier.io>  Sun, 20 Apr 2014 21:48:29 -0500
